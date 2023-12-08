@@ -13,7 +13,7 @@ In my free time, I like to work on my CSS skills to create unique designs.
 - 💻 Working on my portfolio in my free-time   
 - 🍜 I love ramen
  
-<h3>💡 <i>Skills</i></h3>
+ <!--  <h3>💡 <i>Skills</i></h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,6 +31,8 @@ In my free time, I like to work on my CSS skills to create unique designs.
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+-->
 
 <h3>📊 <i>Stats</i></h3>
 
