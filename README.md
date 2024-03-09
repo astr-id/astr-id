@@ -16,32 +16,6 @@ In my free time, I like to work on my CSS skills to create unique designs.
 - Portfolio : My portfolio built with React, showcasing my projects and skills
 - Vymai : Redesign of a graphic designer and photographer's website using React and ASP.NET Core
 
-## 🚀 Main Technologies 
-
-### Languages:
-> JavaScript ⚡️
-> 
-> HTML/CSS 🎨
-> 
-> C# 🎯
-
-### Frameworks & Library:
-> React ⚛️
->
-> Node.js 🚀
->
-> Sass 🎨
-
-### Database:
-> MySQL 🗄️
-
-### Tools :
-> VSCode 💻
->
-> Trello 📋
->
-> Figma 🎨
-
 <h3>📊 <i>Stats</i></h3>
 
 <div align="center">
