@@ -9,7 +9,7 @@ In my free time, I like to work on my CSS skills to create unique designs.
 
 - 👀 I’m interested in React
 - 🌱 I’m currently learning Python
-- 📫 You can reach me through [LinkedIn](www.linkedin.com/in/astridpierron).
+- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/astridpierron/).
 
 ## 🎨 My Projects
 
@@ -19,22 +19,22 @@ In my free time, I like to work on my CSS skills to create unique designs.
 ## 🚀 Main Technologies 
 
 ### Languages:
-- JavaScript ⚡️
-- HTML/CSS 🎨
-- C# 🎯
+> JavaScript ⚡️
+> HTML/CSS 🎨
+> C# 🎯
 
 ### Frameworks & Library:
-- React ⚛️
-- Node.js 🚀
-- Sass 🎨
+> React ⚛️
+> Node.js 🚀
+> Sass 🎨
 
 ### Database:
-- MySQL 🗄️
+> MySQL 🗄️
 
 ### Tools :
-- VSCode 💻
-- Trello 📋
-- Figma 🎨
+> VSCode 💻
+> Trello 📋
+> Figma 🎨
 
 <h3>📊 <i>Stats</i></h3>
 
