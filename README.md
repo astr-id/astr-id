@@ -20,12 +20,16 @@ In my free time, I like to work on my CSS skills to create unique designs.
 
 ### Languages:
 > JavaScript ⚡️
+> 
 > HTML/CSS 🎨
+> 
 > C# 🎯
 
 ### Frameworks & Library:
 > React ⚛️
+>
 > Node.js 🚀
+>
 > Sass 🎨
 
 ### Database:
@@ -33,7 +37,9 @@ In my free time, I like to work on my CSS skills to create unique designs.
 
 ### Tools :
 > VSCode 💻
+>
 > Trello 📋
+>
 > Figma 🎨
 
 <h3>📊 <i>Stats</i></h3>
