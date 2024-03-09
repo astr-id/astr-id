@@ -11,12 +11,12 @@ In my free time, I like to work on my CSS skills to create unique designs.
 - 🌱 I’m currently learning Python
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/astridpierron/).
 
-## 🎨 My Projects
+### 🎨 My Projects
 
 - Portfolio : My portfolio built with React, showcasing my projects and skills
 - Vymai : Redesign of a graphic designer and photographer's website using React and ASP.NET Core
 
-## 📊 Stats
+### 📊 Stats
 
 <div align="center">
 
