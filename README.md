@@ -6,7 +6,7 @@ I'm `Astrid`, a Software Development Student from France. I'm also an intern in 
 ```
 
 - 👀 I’m interested in React
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Python
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/astridpierron/).
 - ⚡ Fun fact: I’ve rewritten my bio more times than my actual code.
 
