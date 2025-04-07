@@ -7,7 +7,7 @@ I'm `Astrid`, a Software Development Student from France. I'm also an intern in 
 
 - 👀 I’m interested in React
 - 🌱 I’m currently learning Python
-- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/astridpierron/).
+- 📫 You can reach me through <a href="https://www.linkedin.com/in/astridpierron/" target="_blank">LinkedIn</a>
 - ⚡ Fun fact: I’ve rewritten my bio more times than my actual code.
 
 ### 🚀 Main Tech
@@ -30,9 +30,9 @@ I'm `Astrid`, a Software Development Student from France. I'm also an intern in 
 </div>
 
 ### 🛠️ Projects Currently under development
-🏎️ F1 Board Game Website – A showcase website for a Formula 1-themed board game. 
+🏎️ F1 Board Game Website – A showcase website for a Formula 1-themed board game.
 
-[📺 Watchlist Web App](https://astr-id-watchlist.vercel.app/) – A personal app to manage your watchlist for shows, movies, or anime. Features in progress: add/remove items, filter content, and track progress.
+📺 <a href="https://astr-id-watchlist.vercel.app/" target="_blank">Watchlist Web App</a> – A personal app to manage your watchlist for shows, movies, or anime. Features in progress: add/remove items, filter content, and track progress.
 
 ### 📊 Stats
 
