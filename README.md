@@ -32,7 +32,7 @@ I'm `Astrid`, a Software Development Student from France. I'm also an intern in 
 ### 🛠️ Projects Currently under development
 🏎️ F1 Board Game Website – A showcase website for a Formula 1-themed board game.
 
-📺 <a href="https://astr-id-watchlist.vercel.app/" target="_blank">Watchlist Web App</a> – A personal app to manage your watchlist for shows, movies, or anime. Features in progress: add/remove items, filter content, and track progress.
+📺 Watchlist Web App – A simple app to manage your watchlist for shows, movies, or anime. Features in progress: add/remove items, filter content, and track progress.
 
 ### 📊 Stats
 
