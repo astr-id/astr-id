@@ -29,11 +29,6 @@ I'm `Astrid`, a Software Development Student from France. I'm also an intern in 
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white">  
 </div>
 
-### 🛠️ Projects Currently under development
-🏎️ F1 Board Game Website – A showcase website for a Formula 1-themed board game.
-
-📺 Watchlist Web App – A simple app to manage your watchlist for shows, movies, or anime. Features in progress: add/remove items, filter content, and track progress.
-
 ### 📊 Stats
 
 <div align="center">
